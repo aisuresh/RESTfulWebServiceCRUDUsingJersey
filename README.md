@@ -1,2 +1,2 @@
-# RESTful Web Service CRUD opertions using Jersey
+# RESTful Web Service CRUD opertions using Jersey with Maven
 
