@@ -1,2 +1,2 @@
-# RESTfulWebServiceCRUDUsingJersey
-RESTful Web Service CRUD operation Using Jersey
+# RESTful Web Service CRUD opertions using Jersey
+
